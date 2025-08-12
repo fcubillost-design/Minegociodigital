@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciando Mi Negocio",
+  "description": "Una aplicación web interactiva y gamificada para ayudar a los emprendedores a gestionar su negocio. Basada en el manual 'Gerenciando mi Negocio', esta herramienta ofrece calculadoras, lienzos de modelo de negocio y un asistente de IA para guiar a los usuarios en su viaje empresarial.",
+  "requestFramePermissions": []
+}

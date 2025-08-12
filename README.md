@@ -1,0 +1,2 @@
+# Minegociodigital
+App de gerencia
